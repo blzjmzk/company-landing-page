@@ -7,7 +7,7 @@
 - mobile-first approach
 - interactions
 - image optimalization (webp image format)
-- built from ready-made graphic design as an HTML/CSS course effect (course: https://codewithmosh.com/p/the-ultimate-html-css)
+- built from ready-made graphic design as an HTML/CSS course effect [course link](https://codewithmosh.com/p/the-ultimate-html-css)
 
 
 
