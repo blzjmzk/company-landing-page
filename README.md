@@ -1,3 +1,4 @@
+
 # Landing page of a concept company website
 - HTML/CSS
 - built right in the editor (IDE)
@@ -7,5 +8,7 @@
 - interactions
 - image optimalization (webp image format)
 - built from ready-made graphic design as an HTML/CSS course effect (course: https://codewithmosh.com/p/the-ultimate-html-css)
+
+
 
 
